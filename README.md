@@ -1,2 +1,2 @@
 # Doc-genie
-This is mt colab project
+This is my colab project
